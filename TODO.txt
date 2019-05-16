@@ -63,3 +63,5 @@
    Java6, so...
 
  * Slime-spawn highlighting should probably only be available in dimension 0
+
+ * Text
